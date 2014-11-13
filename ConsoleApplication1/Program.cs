@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sync with server");
+            Console.WriteLine("Sync with server 2");
         }
     }
 }
